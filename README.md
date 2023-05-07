@@ -1,4 +1,4 @@
-# GitHub Search App
+# GitHub Search App c
 
 ## Learning Goals
 
